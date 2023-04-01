@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Vasily, backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="13"/> <b>Chelyabinsk, Russia</b>. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/317/317186.png" width="13"/> <b>Tbilisi, Georgia</b>. </p>
 
-
+<img src="https://komarev.com/ghpvc/?username=vasgg&color=brightgreen" alt="watching_count" />
 
 
 <h3>Badges</h3>
@@ -30,5 +30,5 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=vasgg&color=brightgreen" alt="watching_count" />
+
 
