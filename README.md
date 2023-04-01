@@ -30,4 +30,5 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
+<img src="https://komarev.com/ghpvc/?username=vasgg&color=brightgreen" alt="watching_count" />
 
