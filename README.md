@@ -6,8 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=vasgg&color=brightgreen" alt="watching_count" />
 <a href="https://wakatime.com/@018b93f3-8ec6-4ae8-b720-1d4627c090f1"><img src="https://wakatime.com/badge/user/018b93f3-8ec6-4ae8-b720-1d4627c090f1.svg" alt="Total time coded since Nov 3 2023" /></a>
 
-<a href="https://t.me/vas1stdas" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
+<a href="https://t.me/vas1stdas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 <h3>Badges</h3>
 
