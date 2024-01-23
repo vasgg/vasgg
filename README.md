@@ -4,7 +4,6 @@
 <p>Welcome to my page! </br> I'm Vasily, backend developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="13"/> <b>Chelyabinsk, Russia</b>. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/317/317186.png" width="13"/> <b>Tbilisi, Georgia</b>. </p>
 
 <img src="https://komarev.com/ghpvc/?username=vasgg&color=brightgreen" alt="watching_count" />
-<a href="https://wakatime.com/@018b93f3-8ec6-4ae8-b720-1d4627c090f1"><img src="https://wakatime.com/badge/user/018b93f3-8ec6-4ae8-b720-1d4627c090f1.svg" alt="Total time coded since Nov 3 2023" /></a>
 
 
 
